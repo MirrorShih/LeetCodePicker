@@ -2,7 +2,8 @@ name: main
 
 on:
   schedule:
-    - cron: "0 22 * * 6"
+    - cron: "30 21 * * 6"
+  workflow_dispatch:
 
 jobs:
   update:
