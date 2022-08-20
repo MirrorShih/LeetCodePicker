@@ -24,3 +24,6 @@ To Lower Case
 Maximum Product of Two Elements in an Array
 Plus One
 Palindrome Number
+Shortest Distance to a Character
+Find Pivot Index
+Partition Array into Disjoint Intervals
