@@ -1,6 +1,7 @@
 name: main
 
 on:
+  schedule:
     - cron: "0 22 * * 6"
 
 jobs:
