@@ -27,3 +27,6 @@ Palindrome Number
 Shortest Distance to a Character
 Find Pivot Index
 Partition Array into Disjoint Intervals
+Count Items Matching a Rule
+Valid Palindrome II
+Maximum Earnings From Taxi
