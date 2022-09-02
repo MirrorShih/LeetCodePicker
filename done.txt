@@ -28,5 +28,5 @@ Shortest Distance to a Character
 Find Pivot Index
 Partition Array into Disjoint Intervals
 Count Items Matching a Rule
-Valid Palindrome II
+Generate a String With Characters That Have Odd Counts
 Maximum Earnings From Taxi

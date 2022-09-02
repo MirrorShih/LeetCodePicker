@@ -15,6 +15,7 @@ if __name__ == '__main__':
     with open("done.txt", "r") as f:
         doneList = f.readlines()
         for line in doneList:
+            line = line.replace("\n", "")
             doneDict[line] = 1
     problemsList = []
     for difficulty, num in dict(configParser["difficulty"].items()).items():
@@ -69,7 +70,7 @@ if __name__ == '__main__':
     for difficulty in problemsList:
         for title, titleSlug, questionId in difficulty:
             content += f"- [{questionId}. {title}](https://leetcode.com/problems/{titleSlug}/)\n"
-            doneList.append("\n"+title)
+            doneList.append("\n" + title)
     content += "\n"
     for i in range(1, len(r)):
         content += "##" + r[i]
