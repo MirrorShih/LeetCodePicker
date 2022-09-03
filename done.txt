@@ -30,3 +30,6 @@ Partition Array into Disjoint Intervals
 Count Items Matching a Rule
 Generate a String With Characters That Have Odd Counts
 Maximum Earnings From Taxi
+Find the Distance Value Between Two Arrays
+Construct the Rectangle
+Maximum Twin Sum of a Linked List
