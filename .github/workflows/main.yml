@@ -20,7 +20,7 @@ jobs:
     - name: Install Dependence
       run: pip install -r requirements.txt
     - name: Run main.py
-      run: python main.py --token '${{ secrets.TOKEN }}'
+      run: python main.py --token '${{ secrets.TOKEN }}' --note '${{ secrets.NOTE }}' --webhook '${{ secrets.WEBHOOK }}'
 
     - name: Update done.txt
       id: update_done

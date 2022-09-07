@@ -6,10 +6,14 @@ import argparse
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
     parser.add_argument("--token", required=True)
+    parser.add_argument("--note", required=True)
+    parser.add_argument("--webhook", required=True)
     args = parser.parse_args()
     configParser = configparser.RawConfigParser()
     configParser.read("config")
-    noteID = configParser["note"]["id"]
+    noteID = args.note
+    token = args.token
+    webhook = args.webhook
     doneDict = {}
     doneList = []
     with open("done.txt", "r") as f:
@@ -80,7 +84,6 @@ if __name__ == '__main__':
                 problems.append((question["title"], question["titleSlug"], question["frontendQuestionId"]))
                 if num == 0:
                     problemsList.append(problems)
-    token = args.token
     headers = {"Authorization": f"Bearer {token}"}
     r = requests.get(f"https://api.hackmd.io/v1/notes/{noteID}", headers=headers).json()
     r = str(r["content"]).split("##")
@@ -97,3 +100,9 @@ if __name__ == '__main__':
     r = requests.patch(f"https://api.hackmd.io/v1/notes/{noteID}", headers=headers, json=data)
     with open("done.txt", "w") as f:
         f.writelines(doneList)
+    problemDescription = ""
+    for difficulty in problemsList:
+        for title, titleSlug, questionId in difficulty:
+            problemDescription += f"{questionId}. {title}\n"
+    data = {"embeds": [{"description": problemDescription, "title": datetime.datetime.today().strftime('%Y%m%d')}]}
+    requests.post(f"https://discord.com/api/webhooks/{webhook}", json=data)
