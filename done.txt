@@ -33,3 +33,6 @@ Maximum Earnings From Taxi
 Find the Distance Value Between Two Arrays
 Construct the Rectangle
 Maximum Twin Sum of a Linked List
+Minimum Distance to the Target Element
+Largest Local Values in a Matrix
+Construct K Palindrome Strings
