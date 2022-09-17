@@ -36,3 +36,6 @@ Maximum Twin Sum of a Linked List
 Minimum Distance to the Target Element
 Largest Local Values in a Matrix
 Construct K Palindrome Strings
+Shift 2D Grid
+Replace Elements with Greatest Element on Right Side
+Reverse Nodes in Even Length Groups
