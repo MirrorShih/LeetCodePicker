@@ -45,3 +45,6 @@ Partition Array Such That Maximum Difference Is K
 Check Whether Two Strings are Almost Equivalent
 Check if Numbers Are Ascending in a Sentence
 Construct Binary Tree from Inorder and Postorder Traversal
+Buddy Strings
+Keyboard Row
+Random Pick with Weight
