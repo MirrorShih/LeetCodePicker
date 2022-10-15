@@ -48,3 +48,6 @@ Construct Binary Tree from Inorder and Postorder Traversal
 Buddy Strings
 Keyboard Row
 Random Pick with Weight
+Find the Middle Index in Array
+Reformat The String
+Largest Submatrix With Rearrangements
