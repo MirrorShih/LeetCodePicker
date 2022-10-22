@@ -51,3 +51,6 @@ Random Pick with Weight
 Find the Middle Index in Array
 Reformat The String
 Largest Submatrix With Rearrangements
+Three Consecutive Odds
+Convert 1D Array Into 2D Array
+Minimum Operations to Convert Number
