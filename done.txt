@@ -54,3 +54,6 @@ Largest Submatrix With Rearrangements
 Three Consecutive Odds
 Convert 1D Array Into 2D Array
 Minimum Operations to Convert Number
+Valid Mountain Array
+Lucky Numbers in a Matrix
+Sum of Square Numbers
