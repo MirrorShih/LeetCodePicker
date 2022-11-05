@@ -57,3 +57,6 @@ Minimum Operations to Convert Number
 Valid Mountain Array
 Lucky Numbers in a Matrix
 Sum of Square Numbers
+Two Sum IV - Input is a BST
+Relative Ranks
+Coin Change
