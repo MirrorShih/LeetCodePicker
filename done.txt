@@ -60,3 +60,6 @@ Sum of Square Numbers
 Two Sum IV - Input is a BST
 Relative Ranks
 Coin Change
+Water Bottles
+How Many Numbers Are Smaller Than the Current Number
+Find K Closest Elements
