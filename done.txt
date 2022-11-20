@@ -63,3 +63,6 @@ Coin Change
 Water Bottles
 How Many Numbers Are Smaller Than the Current Number
 Find K Closest Elements
+Count Vowel Substrings of a String
+Shuffle String
+Construct Binary Tree from Preorder and Inorder Traversal
