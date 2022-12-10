@@ -72,3 +72,6 @@ Maximum Binary String After Change
 Shuffle the Array
 Min Max Game
 Concatenation of Consecutive Binary Numbers
+Lemonade Change
+Convert the Temperature
+Maximum Product of the Length of Two Palindromic Subsequences
