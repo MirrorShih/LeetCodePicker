@@ -75,3 +75,6 @@ Concatenation of Consecutive Binary Numbers
 Lemonade Change
 Convert the Temperature
 Maximum Product of the Length of Two Palindromic Subsequences
+Remove Digit From Number to Maximize Result
+Maximum Nesting Depth of the Parentheses
+Number of Matching Subsequences
