@@ -78,3 +78,6 @@ Maximum Product of the Length of Two Palindromic Subsequences
 Remove Digit From Number to Maximize Result
 Maximum Nesting Depth of the Parentheses
 Number of Matching Subsequences
+Valid Perfect Square
+Hamming Distance
+Spiral Matrix II
