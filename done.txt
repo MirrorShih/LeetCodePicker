@@ -81,3 +81,6 @@ Number of Matching Subsequences
 Valid Perfect Square
 Hamming Distance
 Spiral Matrix II
+Unique Number of Occurrences
+Sorting the Sentence
+Reveal Cards In Increasing Order
