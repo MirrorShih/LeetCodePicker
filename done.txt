@@ -87,3 +87,6 @@ Reveal Cards In Increasing Order
 Maximum Units on a Truck
 Determine if Two Events Have Conflict
 Trim a Binary Search Tree
+Number Complement
+Student Attendance Record I
+Largest Plus Sign
