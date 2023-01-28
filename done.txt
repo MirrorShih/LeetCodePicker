@@ -93,3 +93,6 @@ Largest Plus Sign
 Check If All 1's Are at Least Length K Places Away
 Longest Subsequence With Limited Sum
 House Robber III
+Minimum Number of Operations to Convert Time
+Find Center of Star Graph
+Largest Number
