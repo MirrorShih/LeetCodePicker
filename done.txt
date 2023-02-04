@@ -96,3 +96,6 @@ House Robber III
 Minimum Number of Operations to Convert Time
 Find Center of Star Graph
 Largest Number
+Best Poker Hand
+Search Insert Position
+Take K of Each Character From Left and Right
