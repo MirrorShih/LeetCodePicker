@@ -99,3 +99,6 @@ Largest Number
 Best Poker Hand
 Search Insert Position
 Take K of Each Character From Left and Right
+Leaf-Similar Trees
+Search in a Binary Search Tree
+Find Unique Binary String
