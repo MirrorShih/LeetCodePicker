@@ -102,3 +102,6 @@ Take K of Each Character From Left and Right
 Leaf-Similar Trees
 Search in a Binary Search Tree
 Find Unique Binary String
+Final Prices With a Special Discount in a Shop
+Find Smallest Letter Greater Than Target
+Online Stock Span
