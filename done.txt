@@ -105,3 +105,6 @@ Find Unique Binary String
 Final Prices With a Special Discount in a Shop
 Find Smallest Letter Greater Than Target
 Online Stock Span
+Design HashSet
+Minimum Common Value
+Minimum Elements to Add to Form a Given Sum
