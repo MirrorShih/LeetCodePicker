@@ -25,6 +25,9 @@ The file contains the following configuration options:
 - medium: The number of medium questions to select.
 - hard: The number of hard questions to select.
 
+If you want to clear the history of selected questions, you need to empty the contents of the `done.txt` file. 
+This file contains the list of questions that have already been selected.
+
 If you want to customize the frequency of running LeetCodePicker, 
 you can modify the cron schedule in the main.yml file located in the .github/workflows directory.
 
