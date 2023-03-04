@@ -8,7 +8,7 @@ The project is available on GitHub and can be used by forking the repository.
 
 ## Usage
 
-To use LeetCodePicker, you need to first fork the repository to your GitHub account. 
+To use LeetCodePicker, you need to fork the repository first. 
 Then, you need to set up the following environment variables as [GitHub Secrets](https://docs.github.com/en/actions/security-guides/encrypted-secrets):
 
 - `NOTE`: The hackmd note ID to update. You can find the note ID in the URL of your note.
@@ -25,10 +25,10 @@ The file contains the following configuration options:
 - medium: The number of medium questions to select.
 - hard: The number of hard questions to select.
 
-If you want to clear the history of selected questions, you need to empty the contents of the `done.txt` file. 
+Then you should clear the history of selected questions, you need to empty the contents of the `done.txt` file. 
 This file contains the list of questions that have already been selected.
 
-If you want to customize the frequency of running LeetCodePicker, 
+To customize the frequency of running LeetCodePicker, 
 you can modify the cron schedule in the main.yml file located in the .github/workflows directory.
 
 ## Contributing
