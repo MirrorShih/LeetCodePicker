@@ -108,3 +108,6 @@ Online Stock Span
 Design HashSet
 Minimum Common Value
 Minimum Elements to Add to Form a Given Sum
+Second Largest Digit in a String
+Maximum Count of Positive Integer and Negative Integer
+Count the Number of Square-Free Subsets
