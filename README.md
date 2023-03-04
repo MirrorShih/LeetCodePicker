@@ -1,1 +1,28 @@
 # LeetCodePicker
+
+LeetCodePicker is a Python project that selects LeetCode problems randomly and updates them on [hackmd.io](https://hackmd.io/) weekly. 
+The project has a unique feature that it does not select LeetCode premium problems, 
+and users can customize the number and difficulty of problems by modifying the configuration. 
+LeetCodePicker also ensures that it does not select problems that have already been chosen. 
+The project is available on GitHub and can be used by forking the repository.
+
+## Usage
+
+To use LeetCodePicker, you need to first fork the repository to your GitHub account. 
+Then, you need to set up the following environment variables as [GitHub Secrets](https://docs.github.com/en/actions/security-guides/encrypted-secrets):
+
+- `NOTE`: The hackmd note ID to update. You can find the note ID in the URL of your note.
+- `TOKEN`: Your hackmd API token. You can generate a token by going to your account settings and clicking "Create API token" under "API".
+- `WEBHOOK`: The webhook URL to trigger when the LeetCodePicker action is completed. This is useful for sending notifications to Discord.
+
+Next, you can customize the configuration by modifying the `config` file. 
+The file contains the following configuration options:
+
+- easy: The number of easy questions to select.
+- medium: The number of medium questions to select.
+- hard: The number of hard questions to select.
+
+## Contributing
+
+If you find any issues with the project, feel free to create an issue on the repository. 
+You are also welcome to contribute to the project by submitting a pull request.
