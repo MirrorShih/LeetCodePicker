@@ -13,7 +13,10 @@ Then, you need to set up the following environment variables as [GitHub Secrets]
 
 - `NOTE`: The hackmd note ID to update. You can find the note ID in the URL of your note.
 - `TOKEN`: Your hackmd API token. You can generate a token by going to your account settings and clicking "Create API token" under "API".
-- `WEBHOOK`: The webhook URL to trigger when the LeetCodePicker action is completed. This is useful for sending notifications to Discord.
+- `WEBHOOK`: (Optional)The webhook URL (without "https://discord.com/api/webhooks/")to trigger when the LeetCodePicker action is completed. This is useful for sending notifications to Discord.
+
+If you want to receive notifications on a Discord channel when the LeetCodePicker action is completed, 
+you can set up a Discord webhook and add the webhook URL to the `WEBHOOK` secret.
 
 Next, you can customize the configuration by modifying the `config` file. 
 The file contains the following configuration options:
@@ -21,6 +24,9 @@ The file contains the following configuration options:
 - easy: The number of easy questions to select.
 - medium: The number of medium questions to select.
 - hard: The number of hard questions to select.
+
+If you want to customize the frequency of running LeetCodePicker, 
+you can modify the cron schedule in the main.yml file located in the .github/workflows directory.
 
 ## Contributing
 
