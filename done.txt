@@ -111,3 +111,6 @@ Minimum Elements to Add to Form a Given Sum
 Second Largest Digit in a String
 Maximum Count of Positive Integer and Negative Integer
 Count the Number of Square-Free Subsets
+Prime Number of Set Bits in Binary Representation
+Find Resultant Array After Removing Anagrams
+01 Matrix
