@@ -114,3 +114,6 @@ Count the Number of Square-Free Subsets
 Prime Number of Set Bits in Binary Representation
 Find Resultant Array After Removing Anagrams
 01 Matrix
+Number of Distinct Averages
+Transpose Matrix
+Describe the Painting
