@@ -117,3 +117,6 @@ Find Resultant Array After Removing Anagrams
 Number of Distinct Averages
 Transpose Matrix
 Describe the Painting
+Same Tree
+Minimum Cost of Buying Candies With Discount
+Sequential Digits
