@@ -120,3 +120,6 @@ Describe the Painting
 Same Tree
 Minimum Cost of Buying Candies With Discount
 Sequential Digits
+Sum of Digits in Base K
+Number of Steps to Reduce a Number to Zero
+Shortest Path with Alternating Colors
