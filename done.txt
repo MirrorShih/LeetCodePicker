@@ -126,3 +126,6 @@ Shortest Path with Alternating Colors
 Categorize Box According to Criteria
 Take Gifts From the Richest Pile
 Rearrange Words in a Sentence
+Degree of an Array
+Roman to Integer
+Minimized Maximum of Products Distributed to Any Store
