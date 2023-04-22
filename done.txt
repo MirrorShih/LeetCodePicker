@@ -129,3 +129,6 @@ Rearrange Words in a Sentence
 Degree of an Array
 Roman to Integer
 Minimized Maximum of Products Distributed to Any Store
+Find Closest Number to Zero
+Check if Matrix Is X-Matrix
+Adding Spaces to a String
