@@ -132,3 +132,6 @@ Minimized Maximum of Products Distributed to Any Store
 Find Closest Number to Zero
 Check if Matrix Is X-Matrix
 Adding Spaces to a String
+Valid Parentheses
+Number of Arithmetic Triplets
+Count Nodes With the Highest Score
