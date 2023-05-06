@@ -135,3 +135,6 @@ Adding Spaces to a String
 Valid Parentheses
 Number of Arithmetic Triplets
 Count Nodes With the Highest Score
+Find N Unique Integers Sum up to Zero
+Toeplitz Matrix
+Minimum Sideway Jumps
