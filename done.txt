@@ -138,3 +138,6 @@ Count Nodes With the Highest Score
 Find N Unique Integers Sum up to Zero
 Toeplitz Matrix
 Minimum Sideway Jumps
+Maximum Depth of N-ary Tree
+Create Target Array in the Given Order
+Ugly Number III
