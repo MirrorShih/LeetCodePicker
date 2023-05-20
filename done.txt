@@ -141,3 +141,6 @@ Minimum Sideway Jumps
 Maximum Depth of N-ary Tree
 Create Target Array in the Given Order
 Ugly Number III
+Find the Losers of the Circular Game
+Excel Sheet Column Number
+Minimum Suffix Flips
