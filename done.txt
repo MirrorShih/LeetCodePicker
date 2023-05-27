@@ -144,3 +144,6 @@ Ugly Number III
 Find the Losers of the Circular Game
 Excel Sheet Column Number
 Minimum Suffix Flips
+Minimum Time to Type Word Using Special Typewriter
+Sort Even and Odd Indices Independently
+Arithmetic Slices
