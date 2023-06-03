@@ -147,3 +147,6 @@ Minimum Suffix Flips
 Minimum Time to Type Word Using Special Typewriter
 Sort Even and Odd Indices Independently
 Arithmetic Slices
+Ransom Note
+Maximum Difference by Remapping a Digit
+Decoded String at Index
