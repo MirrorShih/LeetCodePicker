@@ -150,3 +150,6 @@ Arithmetic Slices
 Ransom Note
 Maximum Difference by Remapping a Digit
 Decoded String at Index
+Divide Array Into Equal Pairs
+Time Needed to Buy Tickets
+Partition Labels
