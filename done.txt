@@ -153,3 +153,6 @@ Decoded String at Index
 Divide Array Into Equal Pairs
 Time Needed to Buy Tickets
 Partition Labels
+Design HashMap
+Find All Numbers Disappeared in an Array
+Design Front Middle Back Queue
