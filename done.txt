@@ -156,3 +156,6 @@ Partition Labels
 Design HashMap
 Find All Numbers Disappeared in an Array
 Design Front Middle Back Queue
+Check if Word Equals Summation of Two Words
+Average Salary Excluding the Minimum and Maximum Salary
+Filling Bookcase Shelves
