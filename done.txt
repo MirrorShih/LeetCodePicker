@@ -159,3 +159,6 @@ Design Front Middle Back Queue
 Check if Word Equals Summation of Two Words
 Average Salary Excluding the Minimum and Maximum Salary
 Filling Bookcase Shelves
+Next Greater Element I
+Delete Greatest Value in Each Row
+Linked List in Binary Tree
