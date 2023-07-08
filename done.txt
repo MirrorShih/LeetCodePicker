@@ -162,3 +162,6 @@ Filling Bookcase Shelves
 Next Greater Element I
 Delete Greatest Value in Each Row
 Linked List in Binary Tree
+Remove Linked List Elements
+Slowest Key
+Increment Submatrices by One
