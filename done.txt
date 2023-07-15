@@ -165,3 +165,6 @@ Linked List in Binary Tree
 Remove Linked List Elements
 Slowest Key
 Increment Submatrices by One
+Find the K-Beauty of a Number
+Find Common Characters
+Smallest Value After Replacing With Sum of Prime Factors
