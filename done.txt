@@ -168,3 +168,6 @@ Increment Submatrices by One
 Find the K-Beauty of a Number
 Find Common Characters
 Smallest Value After Replacing With Sum of Prime Factors
+Implement Stack using Queues
+Find the Difference of Two Arrays
+Find K Pairs with Smallest Sums
