@@ -171,3 +171,6 @@ Smallest Value After Replacing With Sum of Prime Factors
 Implement Stack using Queues
 Find the Difference of Two Arrays
 Find K Pairs with Smallest Sums
+Number Of Rectangles That Can Form The Largest Square
+Kth Largest Element in a Stream
+Word Break
