@@ -174,3 +174,6 @@ Find K Pairs with Smallest Sums
 Number Of Rectangles That Can Form The Largest Square
 Kth Largest Element in a Stream
 Word Break
+Determine the Winner of a Bowling Game
+Number of Valid Clock Times
+Rearrange Array Elements by Sign
