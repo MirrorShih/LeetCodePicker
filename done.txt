@@ -180,3 +180,6 @@ Rearrange Array Elements by Sign
 Difference Between Element Sum and Digit Sum of an Array
 Count Hills and Valleys in an Array
 Maximum Score From Removing Substrings
+Latest Time by Replacing Hidden Digits
+Contains Duplicate II
+Swap For Longest Repeated Character Substring
