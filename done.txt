@@ -183,3 +183,6 @@ Maximum Score From Removing Substrings
 Latest Time by Replacing Hidden Digits
 Contains Duplicate II
 Swap For Longest Repeated Character Substring
+K Items With the Maximum Sum
+Path Sum
+Minimum Consecutive Cards to Pick Up
