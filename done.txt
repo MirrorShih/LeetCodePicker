@@ -186,3 +186,6 @@ Swap For Longest Repeated Character Substring
 K Items With the Maximum Sum
 Path Sum
 Minimum Consecutive Cards to Pick Up
+Find the Longest Balanced Substring of a Binary String
+Find Numbers with Even Number of Digits
+Find the Minimum and Maximum Number of Nodes Between Critical Points
