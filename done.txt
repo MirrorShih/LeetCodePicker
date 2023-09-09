@@ -189,3 +189,6 @@ Minimum Consecutive Cards to Pick Up
 Find the Longest Balanced Substring of a Binary String
 Find Numbers with Even Number of Digits
 Find the Minimum and Maximum Number of Nodes Between Critical Points
+Most Frequent Number Following Key In an Array
+N-ary Tree Preorder Traversal
+Remove Sub-Folders from the Filesystem
