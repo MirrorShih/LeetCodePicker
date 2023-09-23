@@ -195,3 +195,6 @@ Remove Sub-Folders from the Filesystem
 Single Number
 Reverse Words in a String III
 Online Election
+Minimum Right Shifts to Sort the Array
+Check If String Is a Prefix of Array
+Convert Sorted List to Binary Search Tree
