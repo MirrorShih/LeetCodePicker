@@ -198,3 +198,6 @@ Online Election
 Minimum Right Shifts to Sort the Array
 Check If String Is a Prefix of Array
 Convert Sorted List to Binary Search Tree
+Find the Array Concatenation Value
+Counting Words With a Given Prefix
+Increasing Triplet Subsequence
