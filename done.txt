@@ -201,3 +201,6 @@ Convert Sorted List to Binary Search Tree
 Find the Array Concatenation Value
 Counting Words With a Given Prefix
 Increasing Triplet Subsequence
+Convert Binary Number in a Linked List to Integer
+Verifying an Alien Dictionary
+Non-overlapping Intervals
