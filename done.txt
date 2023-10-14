@@ -204,3 +204,6 @@ Increasing Triplet Subsequence
 Convert Binary Number in a Linked List to Integer
 Verifying an Alien Dictionary
 Non-overlapping Intervals
+Modify Columns
+Rearrange Spaces Between Words
+Design Memory Allocator
