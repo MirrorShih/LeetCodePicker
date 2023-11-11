@@ -216,3 +216,6 @@ Number of Substrings With Only 1s
 Summary Ranges
 Implement Queue using Stacks
 Maximum Number of Removable Characters
+Redistribute Characters to Make All Strings Equal
+Minimum Moves to Convert String
+Smallest Number in Infinite Set
