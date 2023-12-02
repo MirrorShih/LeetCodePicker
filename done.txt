@@ -225,3 +225,6 @@ Merge In Between Linked Lists
 Find the Pivot Integer
 Max Consecutive Ones
 Sort Integers by The Power Value
+Find Champion I
+Occurrences After Bigram
+Maximum Sum of Distinct Subarrays With Length K
