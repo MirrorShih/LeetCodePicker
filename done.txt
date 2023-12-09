@@ -228,3 +228,6 @@ Sort Integers by The Power Value
 Find Champion I
 Occurrences After Bigram
 Maximum Sum of Distinct Subarrays With Length K
+Count of Matches in Tournament
+Backspace String Compare
+Number of Burgers with No Waste of Ingredients
