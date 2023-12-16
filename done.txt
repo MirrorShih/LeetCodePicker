@@ -231,3 +231,6 @@ Maximum Sum of Distinct Subarrays With Length K
 Count of Matches in Tournament
 Backspace String Compare
 Number of Burgers with No Waste of Ingredients
+Check if Number Has Equal Digit Count and Digit Value
+Binary Number with Alternating Bits
+Count Nodes Equal to Average of Subtree
