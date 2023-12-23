@@ -234,3 +234,6 @@ Number of Burgers with No Waste of Ingredients
 Check if Number Has Equal Digit Count and Digit Value
 Binary Number with Alternating Bits
 Count Nodes Equal to Average of Subtree
+Maximum Value of an Ordered Triplet I
+Make Two Arrays Equal by Reversing Subarrays
+Minimum Number of Coins for Fruits
