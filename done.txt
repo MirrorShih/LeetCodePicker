@@ -237,3 +237,6 @@ Count Nodes Equal to Average of Subtree
 Maximum Value of an Ordered Triplet I
 Make Two Arrays Equal by Reversing Subarrays
 Minimum Number of Coins for Fruits
+Minimum Operations to Make the Array Increasing
+Minimum Bit Flips to Convert Number
+Maximum Level Sum of a Binary Tree
