@@ -240,3 +240,6 @@ Minimum Number of Coins for Fruits
 Minimum Operations to Make the Array Increasing
 Minimum Bit Flips to Convert Number
 Maximum Level Sum of a Binary Tree
+Maximum Strong Pair XOR I
+Squares of a Sorted Array
+Construct Product Matrix
