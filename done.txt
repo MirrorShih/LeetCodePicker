@@ -243,3 +243,6 @@ Maximum Level Sum of a Binary Tree
 Maximum Strong Pair XOR I
 Squares of a Sorted Array
 Construct Product Matrix
+Smallest Even Multiple
+Two Furthest Houses With Different Colors
+Minimum Numbers of Function Calls to Make Target Array
