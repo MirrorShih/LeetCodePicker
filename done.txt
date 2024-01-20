@@ -246,3 +246,6 @@ Construct Product Matrix
 Smallest Even Multiple
 Two Furthest Houses With Different Colors
 Minimum Numbers of Function Calls to Make Target Array
+Minimum Amount of Time to Fill Cups
+Cousins in Binary Tree
+Remove Duplicates from Sorted List II
