@@ -258,3 +258,6 @@ Reward Top K Students
 Intersection of Two Arrays II
 Uncommon Words from Two Sentences
 Maximum Subarray Sum with One Deletion
+Longest Alternating Subarray
+Make Three Strings Equal
+Redundant Connection
