@@ -261,3 +261,6 @@ Maximum Subarray Sum with One Deletion
 Longest Alternating Subarray
 Make Three Strings Equal
 Redundant Connection
+Maximum Odd Binary Number
+Longest Continuous Increasing Subsequence
+Number of Sets of K Non-Overlapping Line Segments
