@@ -267,3 +267,6 @@ Number of Sets of K Non-Overlapping Line Segments
 Count Negative Numbers in a Sorted Matrix
 Matrix Diagonal Sum
 Find All Duplicates in an Array
+Find Common Elements Between Two Arrays
+Minimum Sum of Mountain Triplets I
+Maximum Number of Points with Cost
