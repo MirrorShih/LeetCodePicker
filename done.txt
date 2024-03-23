@@ -270,3 +270,6 @@ Find All Duplicates in an Array
 Find Common Elements Between Two Arrays
 Minimum Sum of Mountain Triplets I
 Maximum Number of Points with Cost
+Can Place Flowers
+Count the Number of Consistent Strings
+Ways to Split Array Into Three Subarrays
